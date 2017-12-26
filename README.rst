@@ -9,11 +9,11 @@ To provide simple examples of implementing 2FA with Python.
 Requirements
 ------------
 
-* Python
-* pyotp
-* python-qrcode
-* pillow
-* FreeOTP
+* `Python <https://www.python.org/>`_
+* `pyotp <https://github.com/pyotp/pyotp>`_
+* `python-qrcode <https://github.com/lincolnloop/python-qrcode>`_
+* `pillow <https://github.com/python-pillow/Pillow>`_
+* `FreeOTP <https://freeotp.github.io/>`_
 
 Strictly speaking, FreeOTP isn't required for generating keys
 and QR codes for synchronization. It will, however, let you
